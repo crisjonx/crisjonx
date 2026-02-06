@@ -3,10 +3,11 @@
 I’m a beginner programmer learning **Python** and experimenting with web & game development.  
 Still new, still learning, still having fun 🙂
 
-
 ## Skills
-[![Skills](https://skillicons.dev/icons?i=html,python,github,roblox)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=html,python)](https://skillicons.dev)
 
+## Tools
+[![Tools](https://skillicons.dev/icons?i=robloxstudio,vscode,github,gitlab,codesandbox,render)](https://skillicons.dev)
 
 ## Learning
 - Python 🐍  
