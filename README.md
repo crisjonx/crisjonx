@@ -4,7 +4,7 @@ I’m a beginner programmer learning **Python** and experimenting with web & gam
 Still new, still learning, still having fun 🙂
 
 ## Skills
-[![Skills](https://skillicons.dev/icons?i=html,python)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=html,python,css,js,c++)](https://skillicons.dev)
 
 ## Tools
 [![Tools](https://skillicons.dev/icons?i=robloxstudio,vscode,github,gitlab,codesandbox,render)](https://skillicons.dev)
@@ -18,5 +18,3 @@ Still new, still learning, still having fun 🙂
 
 ![Profile views](https://komarev.com/ghpvc/?username=crisjonx&color=orange)
 [![WakaTime](https://wakatime.com/badge/user/f235d8b6-a0e5-4935-874e-eed50df4f75c.svg)](https://wakatime.com/@f235d8b6-a0e5-4935-874e-eed50df4f75c)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=crisjonx&show_icons=true&theme=transparent)
