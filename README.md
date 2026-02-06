@@ -1,15 +1,16 @@
 # Hey :)👋
 
-I’m a beginner programmer learning **Python** and experimenting with web & game development.  
+I’m a beginner programmer learning **C++** and experimenting with web & game development.  
 Still new, still learning, still having fun 🙂
 
 ## Skills
-[![Skills](https://skillicons.dev/icons?i=html,python,css,js,c++)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=python,html,css,js,cpp)](https://skillicons.dev)
 
 ## Tools
 [![Tools](https://skillicons.dev/icons?i=robloxstudio,vscode,github,gitlab,codesandbox,render)](https://skillicons.dev)
 
 ## Learning
+- C++
 - Python 🐍  
 - HTML / CSS  
 - Exploring Roblox development (Luau)
