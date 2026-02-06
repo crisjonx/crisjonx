@@ -18,3 +18,5 @@ Still new, still learning, still having fun 🙂
 
 ![Profile views](https://komarev.com/ghpvc/?username=crisjonx&color=orange)
 [![WakaTime](https://wakatime.com/badge/user/f235d8b6-a0e5-4935-874e-eed50df4f75c.svg)](https://wakatime.com/@f235d8b6-a0e5-4935-874e-eed50df4f75c)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=crisjonx&show_icons=true&theme=transparent)
