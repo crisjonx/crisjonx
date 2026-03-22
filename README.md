@@ -7,7 +7,7 @@ Still new, still learning, still having fun 🙂
 [![Skills](https://skillicons.dev/icons?i=python,html,css,js,cpp)](https://skillicons.dev)
 
 ## Tools
-[![Tools](https://skillicons.dev/icons?i=robloxstudio,vscode,github,gitlab,codesandbox,render)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=robloxstudio,vscode,github,gitlab,codesandbox,render,cloudflare,codeberg)](https://skillicons.dev)
 
 ## Learning
 - C++
