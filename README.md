@@ -4,7 +4,7 @@ I’m a beginner programmer learning **C++** and experimenting with web & game d
 Still new, still learning, still having fun 🙂
 
 ## Skills
-[![Skills](https://skillicons.dev/icons?i=python,html,css,js,cpp,rust)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=python,html,css,js,cpp,rs)](https://skillicons.dev)
 
 ## Tools
 [![Tools](https://skillicons.dev/icons?i=robloxstudio,vscode,github,gitlab,cloudflare)](https://skillicons.dev)
